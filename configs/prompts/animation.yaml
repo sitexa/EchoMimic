@@ -25,3 +25,5 @@ test_cases:
     - "./assets/test_audios/echomimic_en_girl.wav"
   "./assets/test_imgs/e.png":
     - "./assets/test_audios/echomimic_en.wav"
+  "./assets/my_imgs/cyck.jpg":
+    - "./assets/test_audios/chunwang.wav"
