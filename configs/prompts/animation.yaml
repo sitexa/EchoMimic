@@ -26,4 +26,4 @@ test_cases:
 ##  "./assets/test_imgs/e.png":
 ##    - "./assets/test_audios/echomimic_en.wav"
   "./assets/my_imgs/cyck.jpg":
-    - "./assets/my_audios/czxl1.wav"
+    - "./assets/my_audios/czxl01.wav"
